@@ -1,0 +1,8 @@
+{
+    "name": "react-native-template-rolud",
+    "version": "0.0.1",
+    "description": "React Native Template",
+    "repository": "git@github.com:rolud/react-native-template.git",
+    "author": "Rocco Luigi Scarcella <rolud.devk@gmail.com>",
+    "license": "MIT"
+  }

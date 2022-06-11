@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "strictPropertyInitialization": false,
+    "esModuleInterop": true,
+    "isolatedModules": false,
+    "jsx": "react-native",
+    "lib": ["esnext"],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "target": "esnext",
+    "module": "esnext",
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@assets": ["./assets"],
+      "@components": ["./components"],
+      "@configs": ["./configs"],
+      "@hooks": ["./hooks"],
+      "@layouts": ["./layouts"],
+      "@navigation": ["./navigation"],
+      "@screens": ["./screens"],
+      "@store": ["./store"],
+      "@types": ["./types"],
+      "@utils": ["./utils"],
+    },
+    "rootDirs": ["src", "stories"],
+  },
+  "include": ["src", "src/App.tsx", "index.js"],
+  "exclude": [
+    "node_modules",
+    "babel.config.js",
+    "metro.config.js",
+    "jest.config.js"
+  ]
+}
+
