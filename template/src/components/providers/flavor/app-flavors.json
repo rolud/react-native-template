@@ -1,0 +1,22 @@
+{
+    "apps": {
+        "flavor1": {
+            "name": "flavor1",
+            "bundleIds": [
+                "com.example.flavor1.dev",
+                "com.example.flavor1.staging",
+                "com.example.flavor1"
+            ],
+            "featureSet": {}
+        },
+        "flavor2": {
+            "name": "flavor2",
+            "bundleIds": [
+                "com.example.flavor2.dev",
+                "com.example.flavor2.staging",
+                "com.example.flavor2"
+            ],
+            "featureSet": {}
+        }
+    }
+}
