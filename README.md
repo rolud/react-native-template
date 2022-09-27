@@ -1,8 +1,5 @@
-# React Native Template Rolud
-
 <div align="center">
-
-# eslint-config-react-native
+# React Native Template Rolud
 
 [![NPM version][npmjs-badge]][npmjs-com]
 
