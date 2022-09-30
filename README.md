@@ -49,3 +49,9 @@ npx react-native init AppName --template https://github.com/rolud/react-native-t
 
 [npmjs-badge]: https://img.shields.io/npm/v/react-native-template-rolud.svg?logo=npm
 [npmjs-com]: https://www.npmjs.com/package/react-native-template-rolud
+
+## Organizations using this template
+
+| [Westudents](https://westudents.it/) | [Wezard](https://wezard.it/)  |
+|--|--|
+| [<img src="https://firebasestorage.googleapis.com/v0/b/da-scuola.appspot.com/o/ws-round.png?alt=media&token=468eed8b-628e-4415-87d2-3a4dadbc87f4" width="100px;"/><br/><sub><p align="center">westudents.it</p></sub>](https://westudents.it/)  | [<img src="https://firebasestorage.googleapis.com/v0/b/practical-bot-198011.appspot.com/o/ws-app-public%2Fwezard-logo-round-small.png?alt=media&token=a8d708f0-e0d0-42a4-93ef-0eefe7504c58" width="100px;"/><br/><sub><p align="center">wezard.it</p></sub>](https://wezard.it/) |
